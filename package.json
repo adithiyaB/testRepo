@@ -8,8 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "protractor-repoAb"
+    "url": "git+https://github.com/adithiyaB/testRepo.git"
   },
+  "bugs": {
+    "url": "https://github.com/adithiyaB/testRepo/issues"
+  },
+  "homepage": "https://github.com/adithiyaB/testRepo#readme",
   "keywords": [
     "ab"
   ],
